@@ -32,10 +32,10 @@
 
 ## 🌐 Online Presence
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
-- 🧠 [Codeforces](https://codeforces.com/profile/your-codeforces-username)  
-- 🔎 [LeetCode](https://leetcode.com/your-leetcode-username)  
-- 🍽️ [CodeChef](https://www.codechef.com/users/your-codechef-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Abu Sayeed)  
+- 🧠 [Codeforces](https://codeforces.com/profile/bdafridi)  
+- 🔎 [LeetCode](https://leetcode.com/abusayeed2054)  
+- 🍽️ [CodeChef](https://www.codechef.com/users/abusayed2054)
 
 > Replace the `your-username` parts with your actual usernames on those platforms.
 
