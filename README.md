@@ -1,30 +1,51 @@
-👋I'm Md. Abu Sayeed, a computer enthusiast passionate about exploring new technologies as well as backend-focused software engineer with proficiency in frontend development and a passion for competitive programming.
+# 👋 Hello World! I'm Md. Abu Sayeed
 
+🎯 A passionate **Backend-Focused Software Engineer** and **Computer Enthusiast** who loves exploring new technologies, solving problems, and contributing to impactful projects.
 
-👨‍💻 Talking about personal stuffs
-☄️ I'm currently working on backend projects with Django.
-🧶 In my free time I read and write tech articles.
-🤝 Trying to connect more with fellow developers.
-📬 Reach me out at abusayedsanto88@gmail.com
+---
 
+## 👨‍💻 About Me
 
-🚀 Skills & Tools
-💻 Languages: C | C++ |Python | JavaScript
-🌐 Web: HTML5/CSS3 | Tailwind CSS | Bootstrap 5 | JavaScript| Django
-📦 Tools & Tech: Git | GitHub | VSCode | Rest API |MySQL | PostgreSQL 
-⚙️ Currently Learning: Python | Django
+- 🔭 Currently working on **backend projects** using **Django**  
+- ✍️ I enjoy writing and reading **tech articles** in my free time  
+- 🤝 Actively looking to **connect with fellow developers** and grow together  
+- 💬 Ask me about **Python, Django, C++, REST APIs, or anything backend**  
+- 📫 Reach me at: **abusayedsanto88@gmail.com**
 
-<!--
-**Abu-Sayeed2054/Abu-Sayeed2054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages  
+`C` | `C++` | `Python` | `JavaScript`
+
+### 🌐 Web Technologies  
+`HTML5` | `CSS3` | `Tailwind CSS` | `Bootstrap 5` | `JavaScript` | `Django`
+
+### 🛠️ Tools & Platforms  
+`Git` | `GitHub` | `VS Code` | `REST APIs` | `MySQL` | `PostgreSQL`
+
+### 📚 Currently Learning  
+`Advanced Python` | `Django` | `Scalable Backend Systems`
+
+---
+
+## 📈 GitHub Stats
+
+![Abu Sayeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark)
+
+---
+
+## 🧠 Fun Fact
+
+> I love **competitive programming**, and it's what sharpened my logic and algorithmic thinking!
+
+---
+
+### 🙌 Let’s Connect!
+
+Feel free to reach out via [Email](mailto:abusayedsanto88@gmail.com) — I’m always up for collaboration, learning, and coding chats!
+
+---
+
