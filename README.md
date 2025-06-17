@@ -32,7 +32,7 @@
 
 ## 🌐 Online Presence
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/abu-sayeed-4a67b028a/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/https:/www.linkedin.com/in/abu-sayeed-4a67b028a/)  
 - 🧠 [Codeforces](https://codeforces.com/profile/bdafridi)  
 - 🔎 [LeetCode](https://leetcode.com/abusayeed2054)  
 - 🍽️ [CodeChef](https://www.codechef.com/users/abusayed2054)
