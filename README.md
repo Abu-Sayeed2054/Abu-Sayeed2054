@@ -28,15 +28,6 @@
 ### 📚 Currently Learning  
 `Advanced Python` | `Django` | `Scalable Backend Systems`
 
----
-
-## 📈 GitHub Stats
-
-![Abu Sayeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark)
-
----
-
 ## 🧠 Fun Fact
 
 > I love **competitive programming**, and it's what sharpened my logic and algorithmic thinking!
