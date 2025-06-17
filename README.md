@@ -28,6 +28,17 @@
 ### 📚 Currently Learning  
 `Advanced Python` | `Django` | `Scalable Backend Systems`
 
+---
+
+## 🌐 Online Presence
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
+- 🧠 [Codeforces](https://codeforces.com/profile/your-codeforces-username)  
+- 🔎 [LeetCode](https://leetcode.com/your-leetcode-username)  
+- 🍽️ [CodeChef](https://www.codechef.com/users/your-codechef-username)
+
+> Replace the `your-username` parts with your actual usernames on those platforms.
+
 ## 🧠 Fun Fact
 
 > I love **competitive programming**, and it's what sharpened my logic and algorithmic thinking!
@@ -36,7 +47,6 @@
 
 ### 🙌 Let’s Connect!
 
-Feel free to reach out via [Email](mailto:abusayedsanto88@gmail.com) — I’m always up for collaboration, learning, and coding chats!
+Feel free to reach out via [Email](abusayedsanto88@gmail.com) — I’m always up for collaboration, learning, and coding chats!
 
 ---
-
