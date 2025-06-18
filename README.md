@@ -15,16 +15,12 @@
 ---
 
 ## 🚀 Skills & Technologies
-
 ### 💻 Languages  
 `C` | `C++` | `Python` | `JavaScript`
-
 ### 🌐 Web Technologies  
 `HTML5` | `CSS3` | `Tailwind CSS` | `Bootstrap 5` | `JavaScript` | `Django`
-
 ### 🛠️ Tools & Platforms  
 `Git` | `GitHub` | `VS Code` | `REST APIs` | `MySQL` | `PostgreSQL`
-
 ### 📚 Currently Learning  
 `Advanced Python` | `Django` | `Scalable Backend Systems`
 
